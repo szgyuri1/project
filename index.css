@@ -1,5 +1,5 @@
 body {
-   background: url("Olympia-ROTATOR-Expo.jpg") top center no-repeat fixed #282828;
+   background: url("fenykepek/Olympia-ROTATOR-Expo.jpg") top center no-repeat fixed #282828;
    background-size: cover;
 }
 
@@ -10,6 +10,14 @@ body {
 }
 
 
-#elsokep {
-    image;
+#alsoresz {
+    width: 50%;
+    color: black;
+   
+}
+
+#felsokep {
+    width: 100%;
+    height: 50%;
+
 }
