@@ -21,3 +21,7 @@ body {
     height: 50%;
 
 }
+
+ul {
+    list-style: none;
+}
